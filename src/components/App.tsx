@@ -5,10 +5,12 @@ import About from './About';
 import Home from './Home';
 const App = () => {
   return (
-    <Switch>
-      <Route exact path="/" component={Home} />
-      <Route exact path="/about" component={About} />
-    </Switch>
+    <div className="container">
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/about" component={About} />
+      </Switch>
+    </div>
   );
 };
 export default App;
