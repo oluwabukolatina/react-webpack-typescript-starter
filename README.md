@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-> [Technologies](#technologies-used) &middot; [Installations](#installations) &middot; [Acknowledgments](#acknowledgments) &middot; [Author](#author) 
+> [Technologies](#technologies-used) &middot; [Installations](#installations) &middot; [Author](#author) 
 ## Technologies Used
 
 - [React.js](https://reactjs.com) - React is an open-source front-end JavaScript library for building user interfaces or UI components..
