@@ -60,8 +60,7 @@
   "precommit": "NODE_ENV=production lint-staged",
   "lint-staged": {
     "src/**/*.{js,jsx,tsx}": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ]
   }
 }
