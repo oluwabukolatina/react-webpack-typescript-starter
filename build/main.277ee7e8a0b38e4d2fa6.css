@@ -1,0 +1,9 @@
+.container {
+  background: teal;
+  min-height: 100vh;
+}
+body {
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+
